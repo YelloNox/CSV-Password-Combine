@@ -28,8 +28,6 @@ Option 2: If you're a Python 3.x kind of person, show some love with this comman
 python3 harmonized_passwords.py
 ```
 
-Whichever way you roll, this script is ready to rock and roll, merging them passwords and creating some epic harmony. Get ready for the magic, my amigo! Cheers!
-
 And that's it, my friend! Sit the f\*ck back, chillax, and watch the frickin' magic happen. The passwords from `file1` and `file2` will join forces, their fields all mashed up together, ready to party in the legendary `combined_passwords.csv`. Cheers to laziness and gettin' things done in style!
 
 Oh, and don't forget! Make sure your input files are in proper CSV format and have the right f\*ckin' fields. Ain't no party without the right ingredients, am I right? Now go ahead, my tipsy amigo, and rock this script like the ultimate drunk rockstar you are! WOOOOOOOOOOOOOOO!
