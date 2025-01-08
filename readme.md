@@ -2,6 +2,10 @@
 
 Heeeeeeeeeyyyyyyyyyyyyyyyyyyyy, my friend! Oh boy, do I have something extra special for youuuuuuuuuuuu! I got this insanely crazy script that's gonna blow your mind. Like, it's all about merging passwords from two CSV files and smushing them into one output file. And guess what? GPT is here too, doin' its magic and makin' things all cray-cray. So, here's the deal, pal. Brace yourself!
 
+
+<sub>Legal Notice (probobly): The majority of this repo (both text and code) was generated with an old (very old) version of Chat-GPT. End of questions.</sub>
+
+
 ## How the F\*ck does this work? Listen Up!
 
 Alright, listen up, my f\*ck friend! I'm only gonna say this once, so pay the f\*ck attention. We got this mega-awesome function called `combine_passwords`. It's got three things you gotta know about: `file1`, `file2`, and `output_file`. Don't worry, I won't repeat myself, so soak it in while you can. We open up `file1`, read the passwords, and dump 'em into this thing called a dictionary. Same goes for `file2`, got it? If we find a password that matches in both files, we update it in the dictionary. If not, we add a brand spankin' new one. Easy peasy!
